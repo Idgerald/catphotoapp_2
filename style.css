@@ -1,0 +1,27 @@
+body {
+  background-color: lightpink;
+}
+
+h1 {
+  font-family: cursive;
+  color: red;
+}
+
+h2 {
+  font-family: sans-serif;
+}
+
+.thick-blue-border {
+  border-width: 10px;
+  border-color: blue;
+  border-style: solid;
+}
+
+.small-image {
+  width: 200px;
+  padding: 20px;
+}
+
+.silver-background {
+  background-color: silver;
+}
